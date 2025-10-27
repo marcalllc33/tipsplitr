@@ -1,3 +1,9 @@
+cd tipsplitr-react-native
+git init
+git remote add origin https://github.com/yourusername/tipsplitr.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
 {
   "name": "tipsplitr",
   "version": "1.0.0",
